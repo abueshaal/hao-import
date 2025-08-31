@@ -4,6 +4,12 @@ exports.handler = async function(event, context) {
         body: "Hello from Netlify Functions!"
     };
 };
+exports.handler = async function(event, context) {
+    return {
+        statusCode: 200,
+        body: "Hello from Netlify Functions!"
+    };
+};
 
 exports.handler = async function(event, context) {
     return {
