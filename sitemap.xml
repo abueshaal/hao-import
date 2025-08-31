@@ -47,6 +47,58 @@ git push origin main
 </urlset>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+                                                                   [ Read 191 lines (Converted from DOS format) ]
+^G Help         ^O Write Out    ^W Where Is     ^K Cut          ^T Execute      ^C Location     M-U Undo        M-A Set Mark    M-] To Bracket  M-Q Previous    ^B Back
+^X Exit         ^R Read File    ^\ Replace      ^U Paste        ^J Justify      ^/ Go To Line   M-E Redo        M-6 Copy        ^Q Where Was    M-W Next        ^F Forward
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://superlative-sunflower-e5ba88.netlify.app/</loc>
+    <priority>1.0</priority>
+  </url>
+  <!-- Add more pages here if you have them -->
+  <!-- Example:
+  <url>
+    <loc>https://superlative-sunflower-e5ba88.netlify.app/about.html</loc>
+    <priority>0.8</priority>
+  </url>
+  -->
+</urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://superlative-sunflower-e5ba88.netlify.app/</loc>
+    <priority>1.0</priority>
+  </url>
+  <!-- Add more pages here if you have them -->
+  <!-- Example:
+  <url>
+    <loc>https://superlative-sunflower-e5ba88.netlify.app/about.html</loc>
+    <priority>0.8</priority>
+  </url>
+  -->
+</urlset>
+git add sitemap.xml
+git commit -m "Update sitemap URLs to Netlify domain"
+git push origin main
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://abueshaal.github.io/hao-import/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Add more pages here if you have them -->
+  <!-- Example:
+  <url>
+    <loc>https://abueshaal.github.io/hao-import/about.html</loc>
+    <priority>0.8</priority>
+  </url>
+  -->
+
+</urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://superlative-sunflower-e5ba88.netlify.app/</loc>
     <priority>1.0</priority>
