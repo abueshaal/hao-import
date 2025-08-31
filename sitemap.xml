@@ -1,3 +1,27 @@
+  GNU nano 7.2                      sitemap.xml
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://superlative-sunflower-e5ba88.netlify.app/</loc>
+    <priority>1.0</priority>
+  </url>
+  <!-- Add more pages here if you have them -->
+  <!-- Example:
+  <url>
+    <loc>https://superlative-sunflower-e5ba88.netlify.app/about.html</loc>
+    <priority>0.8</priority>
+  </url>
+  -->
+</urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://superlative-sunflower-e5ba88.netlify.app/</loc>
+    <priority>1.0</priority>
+  </url>
+  <!-- Add more pages here if you have them -->
+                 [ Read 405 lines (Converted from DOS format) ]
+^G Help      ^O Write Out ^W Where Is  ^K Cut       ^T Execute   ^C Location
+^X Exit      ^R Read File ^\ Replace   ^U Paste     ^J Justify   ^/ Go To Line
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
